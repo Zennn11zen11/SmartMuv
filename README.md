@@ -15,7 +15,7 @@ As Solidity does not keep track of the keys of mapping variables, SmartMuv uses 
 ```
 git clone https://github.com/WaizKhan7/SmartMuv.git
 ```
-
+https://app.binance.com/uni-qr/cpro/Square-Creator-b08e6bfc5a87?l=en&r=818739537&uc=app_square_share_link&us=more
 ## Install
 
 #### Install Dependencies
